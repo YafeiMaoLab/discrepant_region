@@ -1,3 +1,2 @@
-# discrepant_region
-visualization of the 238 large discrepent regions between CHM13 and GRCh38
-This include the screeenshot of the discrepant region in saffire and dotplot. And every dictory will be divide into four different types includes DEL,INS,INV and SDR.
+#SafFire
+The screenshot of discrepant region in the SafFire. And because the limitation of the visualization tool, there are more pictures in the INS file and the regions of those pictures are extended compared with the discrepant regions. 
